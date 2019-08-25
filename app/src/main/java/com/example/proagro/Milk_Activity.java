@@ -25,7 +25,7 @@ public class Milk_Activity extends AppCompatActivity implements View.OnClickList
         Intent i;
         switch (v.getId()) {
             case R.id.purchase_milk:i = new Intent(this, Login_Activity.class); startActivity(i);break;
-            case R.id.sell_milk:i = new Intent(this, SignUp_Activity.class);startActivity(i);break;
+            case R.id.sell_milk:i = new Intent(this, SellMilk_Activity.class);startActivity(i);break;
 
             default:break;
 

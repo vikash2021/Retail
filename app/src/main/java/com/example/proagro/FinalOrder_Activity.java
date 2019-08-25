@@ -66,7 +66,7 @@ public class FinalOrder_Activity extends AppCompatActivity {
                             startActivity(new Intent(getApplicationContext(), Order_Activity.class));
 
                         }
-                    }, 2000);
+                    }, 4000);
 
                 }
 

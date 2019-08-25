@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".OrderConfirmation"></activity>
+        <activity android:name=".SellConfirmation_Activity"></activity>
+        <activity android:name=".SellMilk_Activity" />
+        <activity android:name=".OrderConfirmation" />
         <activity android:name=".FinalOrder_Activity" />
         <activity android:name=".Map_Activity" />
         <activity android:name=".Order_Activity" />
