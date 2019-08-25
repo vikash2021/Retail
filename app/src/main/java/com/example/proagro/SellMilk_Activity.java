@@ -44,7 +44,7 @@ public class SellMilk_Activity extends AppCompatActivity {
                         startActivity(new Intent(getApplicationContext(),Milk_Activity.class));
 
                     }
-                }, 400000);
+                }, 4000);
 
 
             }
