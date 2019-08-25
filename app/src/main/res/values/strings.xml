@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProAgro</string>
+
+    <string name="txt">
+Note:Online delivery is available for orders of more than 2 litres only.For orders of less than or equal to 2 litres ,you will have to visit our nearby outlets.
+    </string>
 </resources>

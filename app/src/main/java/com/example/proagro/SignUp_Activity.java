@@ -69,7 +69,7 @@ public class SignUp_Activity extends AppCompatActivity {
                         startActivity(new Intent(getApplicationContext(), Login_Activity.class));
 
                     }
-                }, 1000);
+                }, 1);
 
 
             }
